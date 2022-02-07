@@ -1,4 +1,4 @@
-<div align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23B136F7&size=23&center=true&lines=Hi%2C+My+name+is+Diamond+Stephens;Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)<div/>
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23B136F7&size=23&center=true&lines=Hi%2C+My+name+is+Diamond+Stephens;Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
 
 <!--
 **diamondste/diamondste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
