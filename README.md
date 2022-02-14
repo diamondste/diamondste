@@ -6,9 +6,9 @@
 
 ----
 
-<b>Contact me: </b>
+##Contact Me
 
-![Linkedin Badge](https://img.shields.io/badge/-diamondstep? style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diamondstep/)(https://www.linkedin.com/in/diamondstep/)
+[![Linkedin Badge](https://img.shields.io/badge/-diamondstep? style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diamondstep/)](https://www.linkedin.com/in/diamondstep/)
 
 
 <!--
