@@ -2,11 +2,8 @@
  
  
  -------
- <p>Hi, I'm Diamond Stephens, a full stack web developer. I am graduate from East Tennesse State University. Also, a recent graduate of Coding Dojo. I am really passianate about learning and growing in areas I never knew of. I hope to grow and learn more lanuage as much as I can. </p>
+ <p><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hi, I'm Diamond Stephens, a full stack web developer. I am graduate from East Tennesse State University. Also, a recent graduate of Coding Dojo. I am really passianate about learning and growing in areas I never knew of. I hope to grow and learn more lanuage as much as I can. </p>
  
- 
-
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--
 **diamondste/diamondste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
