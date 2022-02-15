@@ -32,7 +32,7 @@
 
 ---
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=diamond.stephens2)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=diamond.stephens2&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 
 
