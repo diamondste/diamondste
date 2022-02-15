@@ -26,6 +26,17 @@
 * FOOOD 
 * Family 
 * Diversity 
+* Learning
+* I have a pair headphones with me at all time ( It's life or death lol) 
+
+
+---
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=diamond.stephens2)
+
+
+
+
 
 
 <!--
