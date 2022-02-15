@@ -10,7 +10,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-diamondstep-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diamondstep/)](https://www.linkedin.com/in/diamondstep/)
 [![Gmail Badge](https://img.shields.io/badge/-stephensd287-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:stephensd287@gmail.com)](mailto:stephensd287@gmail.com)
-[![Dicord Badge](https://img.shields.io/badge/-diamond_stephens#5758-5865F2?style=flat&logo=Discord&logoColor=white&link=https://discord.gg/diamond_stephens#5758](https://discord.gg/diamond_stephens#5758)
+
+----
+<b>Languages and Tools </b>
 
 
 
