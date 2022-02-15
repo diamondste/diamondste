@@ -6,7 +6,7 @@
 
 ----
 
-<b>Contact Me: </b>
+<h3 align="left">Contact Me:</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-diamondstep-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diamondstep/)](https://www.linkedin.com/in/diamondstep/)
 [![Gmail Badge](https://img.shields.io/badge/-stephensd287-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:stephensd287@gmail.com)](mailto:stephensd287@gmail.com)
